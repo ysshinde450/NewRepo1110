@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Iterator;
 
 public class ArrayListProgram {
-	
+	//Sent on Git
 	public static void main(String[] args) {
 		
 		ArrayList<String> al = new ArrayList<String>();
